@@ -56,7 +56,7 @@ Model değerlendirme sonuçları:
 
 ### Confusion Matrix
 <div align="center">
-  <img src="https://raw.githubusercontent.com/username/project/master/images/confusion_matrix.png" width="400" />
+  <img src="[https://raw.githubusercontent.com/username/project/master/images/confusion_matrix.png](https://github.com/eemrek/news-analysis/blob/main/confusion-matrix.png)" width="400" />
 </div>
 
 ### ROC Eğrisi
